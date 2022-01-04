@@ -1,0 +1,5 @@
+Type,Length (m),Curvature (1/m),Radius (m),Parameter A,Mean square error (m^2),Std dev (m),Max error (m)
+Spiral,85.97,-0.0042,236.33,-75.434,0.13,0.17,0.54
+Arc,124.68,-0.0194,51.44,,0.02,0.11,0.32
+Spiral,70.81,-0.0201,49.86,58.607,0.28,0.31,0.87
+Total:,2.8e+02m
